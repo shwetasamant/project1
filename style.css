@@ -1,0 +1,57 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+	
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	
+	color: rgb(255 255 255);
+	font-weight:500;
+	font-size:large;
+}
+
+.h5{
+	
+	text-align:right;
+}
+
+.home{
+	margin-top:82px;
+	padding:0px;
+		
+}
+
+
+#head ,h2{
+    margin-top: 71px;
+}
+
+#sec ,h2{
+    margin-top: 8px;
+	margin-bottom:14px;
+}
+
+.lead{
+	
+	padding-top:6px;
+}
+
+.mt-4{
+    margin-top:6.5rem!important;
+	
+}
+
+.map{
+	
+	box-sizing:border-box;
+	border-color:#1D1B2C;
+}
+
+.con{
+	
+	background-color:#DFDEE5 ;
+}
+
